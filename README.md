@@ -1,3 +1,3 @@
 # ASW-modeling
-Machine Learning Potential file is too large to upload.
+Machine Learning Potential file is now preparing for upload.
 
